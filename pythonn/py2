@@ -1,0 +1,4 @@
+import math
+a=10
+b=5
+print(math.pow(a,b))
