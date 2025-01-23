@@ -1,0 +1,5 @@
+import math
+a=-2
+res = abs(-2)
+print("Absolute val of -2:",res)
+print(abs(-9))
