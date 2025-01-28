@@ -11,4 +11,3 @@ def main():
     area=area_rectangle_(length,width)
     display_area(area)
 main()
-    

@@ -1,3 +1,6 @@
+import dis
+
+
 def display_avg(avg):
     print(f"the average of 4 nos is :{avg}")
     
@@ -19,4 +22,6 @@ def main():
     val=get_sum(a,b,c,d)
     avg=get_avg(val)
     display_avg(avg)
+     
+dis.dis(get_avg)
 main()
