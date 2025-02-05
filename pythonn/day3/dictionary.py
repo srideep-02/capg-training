@@ -21,4 +21,3 @@ print(dic1.items())
 print(dic1.copy())
 print(dic1.values())
 print(dic1.keys())
-

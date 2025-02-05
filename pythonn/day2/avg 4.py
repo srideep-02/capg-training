@@ -1,6 +1,4 @@
 import dis
-
-
 def display_avg(avg):
     print(f"the average of 4 nos is :{avg}")
     

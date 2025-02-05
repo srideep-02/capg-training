@@ -1,0 +1,5 @@
+file=open("pythonn/day9/filee.txt","r")
+print(file.read())
+file=open("pythonn/day9/filee.txt","w")
+file.write("Hello, this is first text in filee.txt")
+file.close()

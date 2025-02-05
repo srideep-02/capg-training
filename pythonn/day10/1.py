@@ -1,0 +1,5 @@
+file=open("pythonn/day10/1.csv","w+")
+file.write("sri \ndeep \nshiva \nsharan")
+content=file.read()
+print(content)
+file.close()

@@ -1,0 +1,10 @@
+class emp:
+    emp_id = ''
+    name = ''
+    dept = ''
+    ph_no = ''
+    address = ''
+    salary = ''
+    experience = ''
+    qualification = ''
+    projects = ''

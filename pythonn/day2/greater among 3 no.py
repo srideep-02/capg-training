@@ -18,3 +18,4 @@ def main():
     number=get_max(a,b,c)
     display(number)
 main()
+ 

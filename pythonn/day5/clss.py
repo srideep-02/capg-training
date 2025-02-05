@@ -10,4 +10,4 @@ car1= car("suzuki","swift dzire")
 car2=car("porsche","911")
 
 car1.display_info()
-car2.display_info()
+car2.display_info() 

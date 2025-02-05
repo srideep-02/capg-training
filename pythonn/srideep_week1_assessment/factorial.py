@@ -3,3 +3,4 @@ def fact(n):
         return n
     return n*fact(n-1)
 m=int(input())
+print(fact(m))
